@@ -18,7 +18,7 @@ For this project, I observed interactions of different users with articles on th
 
 The above dashboard depicts the newest articles. It can also have a recommendation board available that shows the articles that are most pertinent and based on the needs to a specific user.
 
-For determining which articles need to be shown to each user, I performed Exploratory data analysis and buit a recommendation platform by studyingthe data available on the [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/).
+For determining which articles need to be shown to each user, I performed Exploratory data analysis and buit a recommendation platform by studying the data available on the [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/).
 
 ## Files
 
